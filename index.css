@@ -1,0 +1,51 @@
+.nav ul {
+    background-color: lightcyan;
+    margin: auto;
+    position: relative;
+    float: left;
+    width: 100%;
+    display: flex;
+  justify-content: center;
+}
+
+.nav ul li {
+    display: inline;
+    float: left;
+    position: relative;
+}
+
+.nav ul li a {
+    display: block;
+    color: black;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    background-color:lightblue;
+}
+
+.nav ul li:hover > ul {
+    visibility: visible;
+}
+
+.nav ul ul, ul#navigation ul li ul {
+    display: inline;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    visibility: hidden;
+    position: absolute;
+    background-color: lightcyan;
+}
+
+.nav ul ul li a{
+    background-color: lightcyan;
+    text-decoration: none;
+    width: 150px;
+    overflow: hidden;
+}
+
+body {
+    font-family: Century Gothic, sans-serif;
+}

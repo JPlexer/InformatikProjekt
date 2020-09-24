@@ -1,0 +1,21 @@
+Thema: Videokonferenz Dienste
+
+Struktur:
+
+Startseite (Worüber geht die 1Seite) (Tabelle von den Diensten)
+
+|-> Discord (Unterseite) (Beschreibung + Video)
+     |-> Vorteile (Unter(unter)seite) (Liste)
+     |-> Nachteile (Unter(unter)seite) (Liste)
+
+|-> Skype (Unterseite) (Beschreibung + Video)
+    |-> Vorteile (Unter(unter)seite) (Liste)
+    |-> Nachteile (Unter(unter)seite) (Liste)
+
+|-> Zoom (Unterseite) (Beschreibung + Video)
+    |-> Vorteile (Unter(unter)seite) (Liste)
+    |-> Nachteile (Unter(unter)seite) (Liste)
+
+|-> Microsoft Teams (Unterseite) (Beschreibung + Video)
+    |-> Vorteile (Unter(unter)seite) (Liste)
+    |-> Nachteile (Unter(unter)seite) (Liste)
